@@ -62,6 +62,7 @@ void ShowStartupOptions()
                     break;
                 case 9:
                     // Quit application
+                    // TO DO
                     validInput = true;
                     break;
                     // if the int did not match any case it gives this message
@@ -97,12 +98,14 @@ void AddBookOption()
 }
 void GetCollectionUserInput()
 {
+    // TO DO
+    // Currently only allows to look at a book. 
     do
     {
         string collectionUserInput = Console.ReadLine();
         int selection;
 
-        // takes the user input and tries to parse it as an int
+        // takes the user input and tries to parse it as an int for books index
         if (int.TryParse(collectionUserInput, out selection))
         {
             if(selection >= 1 && selection < books.GetCount() + 1)
