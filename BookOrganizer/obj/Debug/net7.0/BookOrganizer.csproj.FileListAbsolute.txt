@@ -1,0 +1,15 @@
+C:\Users\v-lav\source\repos\BookOrganizer\BookOrganizer\bin\Debug\net7.0\BookOrganizer.exe
+C:\Users\v-lav\source\repos\BookOrganizer\BookOrganizer\bin\Debug\net7.0\BookOrganizer.deps.json
+C:\Users\v-lav\source\repos\BookOrganizer\BookOrganizer\bin\Debug\net7.0\BookOrganizer.runtimeconfig.json
+C:\Users\v-lav\source\repos\BookOrganizer\BookOrganizer\bin\Debug\net7.0\BookOrganizer.dll
+C:\Users\v-lav\source\repos\BookOrganizer\BookOrganizer\bin\Debug\net7.0\BookOrganizer.pdb
+C:\Users\v-lav\source\repos\BookOrganizer\BookOrganizer\obj\Debug\net7.0\BookOrganizer.csproj.AssemblyReference.cache
+C:\Users\v-lav\source\repos\BookOrganizer\BookOrganizer\obj\Debug\net7.0\BookOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-lav\source\repos\BookOrganizer\BookOrganizer\obj\Debug\net7.0\BookOrganizer.AssemblyInfoInputs.cache
+C:\Users\v-lav\source\repos\BookOrganizer\BookOrganizer\obj\Debug\net7.0\BookOrganizer.AssemblyInfo.cs
+C:\Users\v-lav\source\repos\BookOrganizer\BookOrganizer\obj\Debug\net7.0\BookOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\v-lav\source\repos\BookOrganizer\BookOrganizer\obj\Debug\net7.0\BookOrganizer.dll
+C:\Users\v-lav\source\repos\BookOrganizer\BookOrganizer\obj\Debug\net7.0\refint\BookOrganizer.dll
+C:\Users\v-lav\source\repos\BookOrganizer\BookOrganizer\obj\Debug\net7.0\BookOrganizer.pdb
+C:\Users\v-lav\source\repos\BookOrganizer\BookOrganizer\obj\Debug\net7.0\BookOrganizer.genruntimeconfig.cache
+C:\Users\v-lav\source\repos\BookOrganizer\BookOrganizer\obj\Debug\net7.0\ref\BookOrganizer.dll
